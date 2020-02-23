@@ -1,0 +1,7 @@
+@media screen and (max-width: 500px) {
+    .mobile-collapse {
+        width: auto;
+        float: none;
+        margin-right: 0;
+    }
+}
